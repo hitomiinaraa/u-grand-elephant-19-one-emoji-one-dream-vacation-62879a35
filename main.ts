@@ -1,3 +1,4 @@
+// Revision pass: re-verified the island glyph renders alone, no extras attached.
 // One Emoji, One Dream Vacation — entry program.
 // Writes a single emoji, the desert island, to /output/entry.txt.
 // Chosen by a 12-candidate A-vs-B / B-vs-A tournament judged against the
